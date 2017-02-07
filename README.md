@@ -5,7 +5,7 @@ Here's the thing. I'm a bit of a cheapskate, and while I wanted to do the JHU Da
 Instead I'm putting the completed assignment's here as my proof of completion.
 I'm happy to take suggestions on how I should structure the folders and present the assignments - so please fork away.
 
-Here are the courses that are involved in the specializtion:
+###Here are the courses that are involved in the specializtion:
 
 *The Data Scientist’s Toolbox
 *R Programming
